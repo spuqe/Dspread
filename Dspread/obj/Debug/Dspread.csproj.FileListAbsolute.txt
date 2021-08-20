@@ -1,0 +1,9 @@
+C:\Users\NIVIV\Desktop\Dspread\Dspread\bin\Debug\Dspread.exe.config
+C:\Users\NIVIV\Desktop\Dspread\Dspread\bin\Debug\Dspread.exe
+C:\Users\NIVIV\Desktop\Dspread\Dspread\bin\Debug\Dspread.pdb
+C:\Users\NIVIV\Desktop\Dspread\Dspread\obj\Debug\Dspread.csproj.AssemblyReference.cache
+C:\Users\NIVIV\Desktop\Dspread\Dspread\obj\Debug\Dspread.Properties.Resources.resources
+C:\Users\NIVIV\Desktop\Dspread\Dspread\obj\Debug\Dspread.csproj.GenerateResource.cache
+C:\Users\NIVIV\Desktop\Dspread\Dspread\obj\Debug\Dspread.csproj.CoreCompileInputs.cache
+C:\Users\NIVIV\Desktop\Dspread\Dspread\obj\Debug\Dspread.exe
+C:\Users\NIVIV\Desktop\Dspread\Dspread\obj\Debug\Dspread.pdb
